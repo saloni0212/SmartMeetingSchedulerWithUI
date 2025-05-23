@@ -36,13 +36,7 @@ This application is ideal for academic or organizational environments where mana
   - Email notifications
 
 ## 📸 Screenshots
-
--------------------------------------------------------------
-| Home (Meetings List) | Create Meeting | Free Slot Checker |
-|----------------------|----------------|-------------------|
-| ![](screenshots/index.png) | ![](screenshots/create.png) | ![](screenshots/freeslots.png) |
--------------------------------------------------------------
-
+Uploaded in the Screenshots folder.
 
 ## 📁 Project Structure
 
